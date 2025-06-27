@@ -2,7 +2,7 @@ class SnykAutocomplete < Formula
   desc "Shell completion scripts for Snyk CLI"
   homepage "https://github.com/z4ce/snyk-autocomplete"
   url "https://github.com/z4ce/snyk-autocomplete/archive/refs/tags/v0.0.3.tar.gz"
-  sha256 "6f2dc6afda84a0cf0a80612eda7e9402bd3549e8508d98bcb2f45798ada28245"
+  sha256 "4858d32d3852934000b7faf13713af8955fa3e203703a6a1979b4666bb57b6be"
   license "MIT"
   head "https://github.com/z4ce/snyk-autocomplete.git", branch: "main"
 
